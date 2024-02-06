@@ -5,5 +5,107 @@
     { "name": "roadmap", "href": "#road_map_section" },
     { "name": "projects", "href": "#project_section" },
     { "name": "continuous learning", "href": "#continuous_learning_section" }
+  ],
+  "tech_stack": [
+    {
+      "title": "JavaScript",
+      "image": "src/assets/icons/javascript.svg",
+      "experience": ""
+    },
+    {
+      "title": "TypeScript",
+      "image": "src/assets/icons/typescript.svg",
+      "experience": ""
+    },
+    {
+      "title": "C",
+      "image": "src/assets/icons/c.svg",
+      "experience": ""
+    },
+    {
+      "title": "CSS",
+      "image": "src/assets/icons/css.svg",
+      "experience": ""
+    },
+    {
+      "title": "HTML",
+      "image": "src/assets/icons/html.svg",
+      "experience": ""
+    },
+    {
+      "title": "Java",
+      "image": "src/assets/icons/java.svg",
+      "experience": ""
+    },
+    {
+      "title": "Springboot",
+      "image": "src/assets/icons/springboot.svg",
+      "experience": ""
+    },
+    {
+      "title": "React",
+      "image": "src/assets/icons/react.svg",
+      "experience": ""
+    },
+    {
+      "title": "Next.js",
+      "image": "src/assets/icons/nextjs.svg",
+      "experience": ""
+    },
+    {
+      "title": "Tailwind CSS",
+      "image": "src/assets/icons/tailwindcss.svg",
+      "experience": ""
+    },
+    {
+      "title": "Redux",
+      "image": "src/assets/icons/redux.svg",
+      "experience": ""
+    },
+    {
+      "title": "node.js",
+      "image": "src/assets/icons/nodejs.svg",
+      "experience": ""
+    },
+    {
+      "title": "PostgreSQL",
+      "image": "src/assets/icons/postgreSQL.svg",
+      "experience": ""
+    },
+    {
+      "title": "Prisma",
+      "image": "src/assets/icons/prisma.svg",
+      "experience": ""
+    },
+    {
+      "title": "Docker",
+      "image": "src/assets/icons/docker.svg",
+      "experience": ""
+    },
+    {
+      "title": "AWS",
+      "image": "src/assets/icons/aws.svg",
+      "experience": ""
+    },
+    {
+      "title": "Postman",
+      "image": "src/assets/icons/postman.svg",
+      "experience": ""
+    },
+    {
+      "title": "Git",
+      "image": "src/assets/icons/git.svg",
+      "experience": ""
+    },
+    {
+      "title": "Jenkins",
+      "image": "src/assets/icons/jenkins.svg",
+      "experience": ""
+    },
+    {
+      "title": "Python",
+      "image": "src/assets/icons/python.svg",
+      "experience": ""
+    }
   ]
 }

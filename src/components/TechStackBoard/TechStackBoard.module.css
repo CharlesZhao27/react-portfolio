@@ -26,24 +26,6 @@
   overflow: hidden;
 }
 
-.skillCardContainer {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 10px;
-  width: 200px;
-  padding: 10px 15px;
-  border: 1px solid transparent;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  font-family: Avenir Next-Bold, Avenir Next;
-  font-weight: 600;
-}
-
-.skillImage {
-  width: 250px;
-  height: 250px;
-}
-
 .skillCardWrapper {
   display: flex;
   gap: 60px;

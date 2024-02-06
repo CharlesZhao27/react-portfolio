@@ -13,7 +13,7 @@ const SectionContainer: React.FC<Props> = ({
 }) => {
   return (
     <section id={sectionName} className={classnames}>
-      <div className=" max-w-[1400px] mx-auto">{children}</div>
+      <div className=" max-w-[1400px] w-full mx-auto">{children}</div>
     </section>
   );
 };

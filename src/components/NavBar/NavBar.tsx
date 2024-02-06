@@ -10,13 +10,15 @@ const navigation = content["navigation"];
 const NavBar: React.FC<Props> = () => {
   return (
     <div className={styles.outerContainer}>
-      <ul className={styles.innerContainer}>
+      <ul className="flex items-center justify-evenly">
         {navigation.map((navItem, index) => (
           <NavItem href={navItem.href} key={index}>
             {navItem.name}
           </NavItem>
         ))}
       </ul>
+
+      
     </div>
   );
 };
