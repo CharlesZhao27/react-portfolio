@@ -136,8 +136,22 @@
       ]
     },
     {
+      "image": "src/assets/icons/redis.svg",
+      "github_link": "https://github.com/CharlesZhao27/portfolio-front-end",
+      "project_name": "CryptoData: Display and Cache",
+      "summary": [
+        "Codebase Refactoring: Undertook a comprehensive refactoring of the existing hard-coded codebase to modularize components, improve code readability, and enhance future maintainability.",
+        "Authentication System Overhaul: Re-implemented the authentication system utilizing Next.auth to streamline user login processes and enhance security measures.",
+        "Configuration Management: Developed a dynamic key-value pair configuration table within the database to support flexible service customization by administrators, enabling a more adaptable application environment.",
+        "User Interface Development: Leveraged Material UI and React Hooks to design and implement complex forms for user interaction, including features for inline editing, adding new rows, inline deletion, and comprehensive form validation.",
+        "Database Integration and Error Handling: Enhanced database interaction with updated CRUD operations, incorporated robust error handling mechanisms to improve user feedback and system reliability during data submission and retrieval processes.",
+        "Service Customization: Enabled users to modify configuration settings for various services directly through the user interface, ensuring a tailored experience that meets the diverse needs of different user groups."
+      ]
+    },
+    {
       "image": "src/assets/icons/nextjs.svg",
       "github_link": "https://github.com/CharlesZhao27/portfolio-front-end",
+      "live_demo": "https://next-ido.vercel.app/",
       "project_name": "Next IDO",
       "summary": [
         "Leveraged Storyblok CMS to integrate front-end development with CMS systems, enabling dynamic content management within Next.js/React applications.",
