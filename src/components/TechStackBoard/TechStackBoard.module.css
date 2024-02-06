@@ -1,0 +1,51 @@
+.textWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 60px 0px;
+}
+
+.title {
+  font-family: Avenir Next-Bold, Avenir Next;
+  font-size: 3rem;
+  leading-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+  color: #0f9949;
+}
+
+.caption {
+  width: 70%;
+  font-family: Avenir Next-Bold, Avenir Next;
+  text-align: center;
+}
+.container {
+  background-color: white;
+  padding: 100px 360px;
+  overflow: hidden;
+}
+
+.skillCardContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  width: 200px;
+  padding: 10px 15px;
+  border: 1px solid transparent;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  font-family: Avenir Next-Bold, Avenir Next;
+  font-weight: 600;
+}
+
+.skillImage {
+  width: 250px;
+  height: 250px;
+}
+
+.skillCardWrapper {
+  display: flex;
+  gap: 60px;
+  flex-wrap: wrap;
+}
