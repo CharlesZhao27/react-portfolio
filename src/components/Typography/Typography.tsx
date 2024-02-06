@@ -22,6 +22,14 @@ export const Heading1Bold: React.FC<Typography> = ({ children, classname }) => {
   return <h1 className={heading1_style}>{children}</h1>;
 };
 
+export const Heading3Bold: React.FC<Typography> = ({ children, classname }) => {
+  const heading1_style = cx(
+    ["font-default text-2xl leading-[4rem] font-bold"],
+    classname
+  );
+  return <h3 className={heading1_style}>{children}</h3>;
+};
+
 export const Caption: React.FC<Typography> = ({ children, classname }) => {
   const heading1_style = cx(["font-default"], classname);
   return <p className={heading1_style}>{children}</p>;

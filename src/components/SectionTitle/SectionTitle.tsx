@@ -19,7 +19,7 @@ const SectionTitle: React.FC<Props> = ({
     <div className={cx(["w-2/3 text-center mx-auto"], classname)}>
       {subheading && <Heading1>{subheading}</Heading1>}
       <Heading1Bold classname="text-[#0f9949]">{title}</Heading1Bold>
-      <div>{children}</div>
+      <div className="text-grey">{children}</div>
     </div>
   );
 };

@@ -23,7 +23,7 @@ const HeroText: React.FC<HeroTextProps> = ({ className }) => {
         <Heading1Bold>Agile Learner</Heading1Bold>
         <Heading1Bold>Bring Concepts into Reality</Heading1Bold>
       </div>
-      <Caption classname="text-gray-500">
+      <Caption classname="text-gray-500 w-[80%]">
         Having recently graduated from university, I am on a mission to craft
         innovative solutions at the intersection of technology and design. With
         a keen eye for detail and a relentless pursuit of excellence, I am

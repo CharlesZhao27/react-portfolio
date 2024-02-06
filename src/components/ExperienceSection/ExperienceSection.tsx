@@ -4,12 +4,8 @@ import SectionContainer from "../SectionContainer/SectionContainer";
 const ExperienceSection = () => {
   return (
     <SectionContainer sectionName="#experience_section">
-          ExperienceSection
+          Experience
           
-
-          <div>
-              
-          </div>
     </SectionContainer>
   );
 };

@@ -107,5 +107,87 @@
       "image": "src/assets/icons/python.svg",
       "experience": ""
     }
+  ],
+  "project": [
+    {
+      "image": "src/assets/icons/springboot.svg",
+      "github_link": "https://github.com/CharlesZhao27/portfolio-front-end",
+      "project_name": "OrderHere Online Ordering Platform",
+      "summary": [
+        "Project Design and User Experience: Led the project design phase, meticulously crafting user flows and stories to align with our strategic vision for an intuitive and efficient online ordering platform. Designed a robust user database, integrating Postgres within a Docker environment for enhanced scalability and reliability.",
+        "Backend Development: Developed and implemented a secure backend infrastructure using Java Spring Boot and Spring Security, including the creation of user login and CRUD APIs. Established JWT authentication processes to safeguard user interactions and resolved CORS issues to ensure smooth frontend-backend communication.",
+        "ORM and Database Integration: Configured a JPA model ORM for efficient data handling and interaction between the application layer and the Postgres database, optimizing data storage and retrieval processes.",
+        "Authentication and Authorization: Engineered a comprehensive authentication and authorization framework to differentiate user roles, granting tailored access to APIs based on user permissions. This included implementing OAuth integration for Google and Facebook logins, alongside traditional credential-based authentication.",
+        "Frontend Implementation: Executed the frontend development with a focus on UI/UX design, creating engaging login interfaces with popup modals and loading animations using axios for data fetching. Ensured robust session management to validate user login states, enhancing security and user experience.",
+        "API Documentation and Code Quality: Implemented Swagger UI for clear and interactive API documentation, facilitating easier integration and usage by developers. Integrated SonarLint into the backend development process for autonomous code formatting, contributing to higher code quality and maintainability."
+      ]
+    },
+    {
+      "image": "https://grammy.dev/images/Y.svg",
+      "github_link": "https://github.com/CharlesZhao27/portfolio-front-end",
+      "project_name": "Group Chat Helper: Telegram Bot",
+      "summary": [
+        "Codebase Refactoring: Undertook a comprehensive refactoring of the existing hard-coded codebase to modularize components, improve code readability, and enhance future maintainability.",
+        "Authentication System Overhaul: Re-implemented the authentication system utilizing Next.auth to streamline user login processes and enhance security measures.",
+        "Configuration Management: Developed a dynamic key-value pair configuration table within the database to support flexible service customization by administrators, enabling a more adaptable application environment.",
+        "User Interface Development: Leveraged Material UI and React Hooks to design and implement complex forms for user interaction, including features for inline editing, adding new rows, inline deletion, and comprehensive form validation.",
+        "Database Integration and Error Handling: Enhanced database interaction with updated CRUD operations, incorporated robust error handling mechanisms to improve user feedback and system reliability during data submission and retrieval processes.",
+        "Service Customization: Enabled users to modify configuration settings for various services directly through the user interface, ensuring a tailored experience that meets the diverse needs of different user groups."
+      ]
+    },
+    {
+      "image": "src/assets/icons/nextjs.svg",
+      "github_link": "https://github.com/CharlesZhao27/portfolio-front-end",
+      "project_name": "Next IDO",
+      "summary": [
+        "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et ",
+        "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et "
+      ]
+    },
+    {
+      "image": "src/assets/icons/css.svg",
+      "github_link": "https://github.com/CharlesZhao27/portfolio-front-end",
+      "project_name": "Elyssa.io",
+      "summary": [
+        "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et ",
+        "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et "
+      ]
+    },
+    {
+      "image": "src/assets/icons/html.svg",
+      "github_link": "https://github.com/CharlesZhao27/portfolio-front-end",
+      "project_name": "AIGC.io",
+      "summary": [
+        "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et ",
+        "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et "
+      ]
+    },
+    {
+      "image": "https://go.dev/images/gophers/biplane.svg",
+      "github_link": "https://github.com/CharlesZhao27/portfolio-front-end",
+      "project_name": "Fetcher",
+      "summary": [
+        "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et ",
+        "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et "
+      ]
+    },
+    {
+      "image": "src/assets/icons/c.svg",
+      "github_link": "https://github.com/CharlesZhao27/portfolio-front-end",
+      "project_name": "Concurrency Scheduler",
+      "summary": [
+        "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et ",
+        "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et "
+      ]
+    },
+    {
+      "image": "src/assets/icons/java.svg",
+      "github_link": "https://github.com/CharlesZhao27/portfolio-front-end",
+      "project_name": "Simple Maze Game",
+      "summary": [
+        "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et ",
+        "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et "
+      ]
+    }
   ]
 }
