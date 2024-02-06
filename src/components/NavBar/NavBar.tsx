@@ -11,7 +11,7 @@ const navigation = content["navigation"];
 const NavBar: React.FC<Props> = () => {
   return (
     <>
-      <Avatar classname=" fixed left-[20%] top-[30px] z-[999]" />
+      <Avatar classname="fixed left-[20%] top-[7px] z-[900]" />
       <div className={styles.outerContainer}>
         <ul className="flex items-center justify-evenly">
           {navigation.map((navItem, index) => (

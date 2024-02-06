@@ -8,7 +8,7 @@ interface Props {
 const Avatar: React.FC<Props> = ({ classname }) => {
   return (
     <div className={cx({ [""]: true }, classname)}>
-      <div className="rounded-full border border-solid border-transparent shadow-xl bg-transparent bg-opacity-15 relative">
+      <div className="rounded-full shadow-sm bg-opacity-80 relative">
         <img
           src="src/assets/icons/avatar.svg"
           alt="avatar"

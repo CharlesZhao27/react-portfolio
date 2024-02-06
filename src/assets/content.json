@@ -140,53 +140,53 @@
       "github_link": "https://github.com/CharlesZhao27/portfolio-front-end",
       "project_name": "Next IDO",
       "summary": [
-        "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et ",
-        "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et "
+        "Leveraged Storyblok CMS to integrate front-end development with CMS systems, enabling dynamic content management within Next.js/React applications.",
+        "Engineered complex React components adhering to the Single Responsibility Principle to ensure code robustness and reusability.",
+        "Led the front-end team in collaboration with UI/UX designers to seamlessly implement the product vision, ensuring high-quality user experiences.",
+        "Conducted thorough code reviews to identify and advocate for best practices, prevent common bugs, and pinpoint potential issues, contributing to the overall code quality and team development."
       ]
     },
     {
       "image": "src/assets/icons/css.svg",
       "github_link": "https://github.com/CharlesZhao27/portfolio-front-end",
-      "project_name": "Elyssa.io",
+      "project_name": "Reverse Engineer: Elyssa.io & AIGC.io",
       "summary": [
-        "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et ",
-        "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et "
+        "Successfully reverse-engineered and rebuilt the Elyssa.io and AIGC.io websites using Next.js and Tailwind CSS, enhancing site performance and maintainability.",
+        "Integrated third-party NPM packages, such as AOS (Animate On Scroll), to implement sophisticated on-scroll animations, improving user engagement.",
+        "Demonstrated in-depth understanding of the CSS Box Model, enabling precise layout and design implementation across different web components.",
+        "Crafted complex animations and CSS styles tailored for commercial websites, elevating the visual appeal and interactivity of the user interface."
       ]
     },
-    {
-      "image": "src/assets/icons/html.svg",
-      "github_link": "https://github.com/CharlesZhao27/portfolio-front-end",
-      "project_name": "AIGC.io",
-      "summary": [
-        "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et ",
-        "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et "
-      ]
-    },
+
     {
       "image": "https://go.dev/images/gophers/biplane.svg",
       "github_link": "https://github.com/CharlesZhao27/portfolio-front-end",
       "project_name": "Fetcher",
       "summary": [
-        "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et ",
-        "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et "
+        "Developed Fetcher, a Git CLI tool in Go, enabling automated fetching of repositories from remote sources on a scheduled basis, enhancing workflow efficiency.",
+        "Acquired proficiency in Go programming language, focusing on application structure and syntax best practices for building scalable and maintainable software.",
+        "Gained in-depth understanding of Git internals and operations, strengthening version control management skills and enhancing project collaboration capabilities.",
+        "Advanced knowledge in error handling techniques in Go, emphasizing robustness and reliability through critical thinking and meticulous consideration of edge cases."
       ]
     },
     {
       "image": "src/assets/icons/c.svg",
       "github_link": "https://github.com/CharlesZhao27/portfolio-front-end",
-      "project_name": "Concurrency Scheduler",
+      "project_name": "Concurrency Scheduler and Memory Allocator",
       "summary": [
-        "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et ",
-        "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et "
+        "Designed and implemented a Concurrency Scheduler in C, utilizing four distinct algorithms to manage process scheduling on a single-threaded CPU, maximizing parallel execution capabilities.",
+        "Developed efficient memory management strategies for process and batch task allocation within the scheduler, ensuring optimal use of resources and freeing memory post-execution.",
+        "Simulated Virtual Memory mechanisms to enhance the scheduler's performance and reliability, demonstrating a deep understanding of low-level system operations and memory handling."
       ]
     },
     {
       "image": "src/assets/icons/java.svg",
       "github_link": "https://github.com/CharlesZhao27/portfolio-front-end",
-      "project_name": "Simple Maze Game",
+      "project_name": "Dungeon World: Maze Game",
       "summary": [
-        "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et ",
-        "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et "
+        "Developed a maze game in Java, leveraging a simple third-party library and adhering strictly to Object-Oriented Programming principles such as inheritance, encapsulation, and abstraction.",
+        "Utilized design patterns such as Factory and Singleton to architect the game, ensuring modular, extensible, and maintainable code.",
+        "Implemented the Depth-First Search (DFS) algorithm to generate unique mazes with a single entrance and exit, enhancing game challenge and player engagement."
       ]
     }
   ]

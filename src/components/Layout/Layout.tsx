@@ -1,6 +1,5 @@
 import React, { ReactNode } from "react";
 import NavBar from "../NavBar/NavBar";
-import Avatar from "../Avatar/Avatar";
 
 interface Props {
   children: ReactNode;
