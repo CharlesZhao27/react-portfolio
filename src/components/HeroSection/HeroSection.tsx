@@ -37,9 +37,9 @@ const HeroText: React.FC<HeroTextProps> = ({ className }) => {
 
 const HeroSection: React.FC<Props> = () => {
   return (
-    <SectionContainer sectionName="hero_section" classnames="bg-[#f1faf4]">
+    <SectionContainer sectionName="about_me_section" classnames="bg-[#f1faf4]">
       <div className="relative py-[200px] px-5 lg:px-0">
-        <HeroText className="relative z-50" />
+        <HeroText className="relative z-50 pl-10 lg:pl-5" />
         <img
           src="src/assets/hero-image.png"
           alt="hero-img"

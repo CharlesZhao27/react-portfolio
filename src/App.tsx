@@ -1,4 +1,5 @@
 import "./App.css";
+import ExperienceSection from "./components/ExperienceSection/ExperienceSection";
 import HeroSection from "./components/HeroSection/HeroSection";
 import Layout from "./components/Layout/Layout";
 import TechStackBoard from "./components/TechStackBoard/TechStackBoard";
@@ -9,6 +10,7 @@ function App() {
       <Layout>
         <HeroSection />
         <TechStackBoard />
+        <ExperienceSection />
       </Layout>
     </>
   );

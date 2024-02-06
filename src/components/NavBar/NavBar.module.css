@@ -22,6 +22,11 @@
   position: relative;
   padding: 5px;
   transition: color 0.3s ease;
+  @apply hover:bg-gradient-to-t
+  hover:from-green-500
+  hover:to-green-900
+  hover:text-transparent
+  hover:bg-clip-text;
 }
 
 .link:visited {
@@ -40,6 +45,7 @@
   transform-origin: right;
   transform: scaleX(0);
   transition: transform 0.3s ease-in-out;
+  @apply bg-gradient-to-r from-green-300 to-green-900;
 }
 
 .link:hover::before {

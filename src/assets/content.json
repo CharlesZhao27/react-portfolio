@@ -2,7 +2,7 @@
   "navigation": [
     { "name": "about me", "href": "#about_me_section" },
     { "name": "tech stack", "href": "#tech_stack_section" },
-    { "name": "roadmap", "href": "#road_map_section" },
+    { "name": "experience", "href": "#experience_section" },
     { "name": "projects", "href": "#project_section" },
     { "name": "continuous learning", "href": "#continuous_learning_section" }
   ],
