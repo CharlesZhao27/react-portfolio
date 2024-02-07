@@ -1,5 +1,6 @@
 import React, { ReactNode } from "react";
 import styles from "../NavBar.module.css";
+import cx from "classnames";
 
 interface Props {
   children: ReactNode;
@@ -8,8 +9,8 @@ interface Props {
 
 const NavItem: React.FC<Props> = ({ children, href }) => {
   return (
-    <li>
-      <a href={href} className={styles.link}>
+    <li className="">
+      <a href={href} className={cx(styles.link, ["capitalize"])}>
         {children}
       </a>
     </li>

@@ -1,9 +1,9 @@
 {
   "navigation": [
-    { "name": "about me", "href": "#about_me_section" },
-    { "name": "tech stack", "href": "#tech_stack_section" },
-    { "name": "projects", "href": "#project_section" },
-    { "name": "continuous learning", "href": "#continuous_learning_section" }
+    { "name": "ABOUT ME", "href": "#about_me_section" },
+    { "name": "TECH STACK", "href": "#tech_stack_section" },
+    { "name": "PROJECT", "href": "#project_section" },
+    { "name": "CONTINUOUS LEARNING", "href": "#continuous_learning_section" }
   ],
   "tech_stack": [
     {

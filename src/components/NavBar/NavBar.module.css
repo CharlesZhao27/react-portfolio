@@ -26,7 +26,8 @@
   hover:from-green-500
   hover:to-green-900
   hover:text-transparent
-  hover:bg-clip-text;
+  hover:bg-clip-text
+  capitalize;
 }
 
 .link:visited {
