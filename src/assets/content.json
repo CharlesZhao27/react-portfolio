@@ -38,7 +38,7 @@
       "experience": ""
     },
     {
-      "title": "Springboot",
+      "title": "Spring Boot",
       "image": "src/assets/icons/springboot.svg",
       "experience": ""
     },
@@ -138,7 +138,7 @@
     {
       "image": "src/assets/icons/redis.svg",
       "github_link": "https://github.com/CharlesZhao27/portfolio-front-end",
-      "project_name": "CryptoData: Display and Cache",
+      "project_name": "CryptoData Market: Visualization and Caching Layer",
       "summary": [
         "Codebase Refactoring: Undertook a comprehensive refactoring of the existing hard-coded codebase to modularize components, improve code readability, and enhance future maintainability.",
         "Authentication System Overhaul: Re-implemented the authentication system utilizing Next.auth to streamline user login processes and enhance security measures.",

@@ -10,7 +10,7 @@ interface Props {}
 
 const ProjectSection: React.FC<Props> = () => {
   return (
-    <SectionContainer sectionName="project_section" classnames="bg-[#f1faf4]">
+    <SectionContainer sectionName="project_section" classnames="">
       <div className="py-[100px]">
         <SectionTitle title="Projects">
           Dive into the array of technologies that power my projects. From

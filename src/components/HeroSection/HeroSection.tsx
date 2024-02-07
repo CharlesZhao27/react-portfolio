@@ -18,9 +18,11 @@ const HeroText: React.FC<HeroTextProps> = ({ className }) => {
       )}
     >
       <div>
-        <Heading1Bold>Software Developer</Heading1Bold>
+        <Heading1Bold classname="text-green-500">
+          Software Developer
+        </Heading1Bold>
         <Heading1Bold>Creative Designer</Heading1Bold>
-        <Heading1Bold>Agile Learner</Heading1Bold>
+        <Heading1Bold classname="text-green-500">Agile Learner</Heading1Bold>
         <Heading1Bold>Bring Concepts into Reality</Heading1Bold>
       </div>
       <Caption classname="text-gray-500 w-[80%]">
@@ -38,7 +40,7 @@ const HeroText: React.FC<HeroTextProps> = ({ className }) => {
 const HeroSection: React.FC<Props> = () => {
   return (
     <SectionContainer sectionName="about_me_section" classnames="bg-[#f1faf4]">
-      <div className="relative py-[200px] px-5 lg:px-0">
+      <div className="relative py-[260px] px-5 lg:px-0">
         <HeroText className="relative z-50 pl-10 lg:pl-5" />
         <img
           src="src/assets/hero-image.png"
