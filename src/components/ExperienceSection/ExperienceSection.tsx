@@ -4,10 +4,7 @@ import SectionContainer from "../SectionContainer/SectionContainer";
 const ExperienceSection = () => {
   return (
     <SectionContainer sectionName="experience_section">
-      <div className=" py-[200px]">
-
-        
-      </div>
+      <div className=" py-[200px]"></div>
     </SectionContainer>
   );
 };

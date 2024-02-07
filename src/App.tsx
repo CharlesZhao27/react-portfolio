@@ -12,7 +12,6 @@ function App() {
       <Layout>
         <HeroSection />
         <TechStackBoard />
-        <ExperienceSection />
         <ProjectSection />
         <LearningSection />
       </Layout>
