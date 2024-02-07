@@ -1,5 +1,4 @@
 import "./App.css";
-import ExperienceSection from "./components/ExperienceSection/ExperienceSection";
 import HeroSection from "./components/HeroSection/HeroSection";
 import Layout from "./components/Layout/Layout";
 import LearningSection from "./components/LearningSection/LearningSection";
