@@ -122,7 +122,7 @@
       ]
     },
     {
-      "image": "https://grammy.dev/images/Y.svg",
+      "image": "src/assets/icons/grammY.svg",
       "github_link": "https://github.com/CharlesZhao27/portfolio-front-end",
       "project_name": "Group Chat Helper: Telegram Bot",
       "summary": [
